@@ -8,6 +8,7 @@ string playerX, playerO;
 
 void Intro() {
     cout << "Tic Tac Toe v1.0" << endl;
+    cout << "Lets Play" << endl;
     cout << "Enter player X's name: ";
     cin >> playerX;
     cout << "Enter player O's name: ";
